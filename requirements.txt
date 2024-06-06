@@ -1,0 +1,7 @@
+﻿lxml
+jieba
+zhon
+requests
+requests
+urllib3
+websocket-client
