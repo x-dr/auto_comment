@@ -24,7 +24,6 @@ import zhon.hanzi
 import jdspider
 from func_spark import SparkApi
 from os import environ, system
-from utils import json_load
 
 CONFIG_PATH = './config.yml'
 USER_CONFIG_PATH = './config.user.yml'
