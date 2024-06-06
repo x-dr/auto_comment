@@ -3,7 +3,7 @@
 # @Time : 2024/6/6
 # @Author : @x-dr
 # @File : auto_comment.py
-# cron "30 7,10 * * *" script-path=xxx.py,tag=匹配cron用
+# cron "30 10 * * *" script-path=xxx.py,tag=匹配cron用
 # const $ = new Env('京东自动评价')
 
 import argparse
