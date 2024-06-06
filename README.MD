@@ -21,7 +21,7 @@ websocket-client
 + 青龙拉库命令 
 
 ```shell
- ql repo https://github.com/x-dr/auto_comment.git "jd_" "" "jdspider"
+ ql repo https://github.com/x-dr/auto_comment.git "jd_" "" "jdspider|func_spark.py"
 ```
 
 + 浏览器登录抓取CK（PC端CK），添加变量PC_COOKIE (多账号用&隔开)
