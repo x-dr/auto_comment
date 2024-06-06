@@ -20,7 +20,7 @@ import requests
 from lxml import etree
 import zhon.hanzi
 import jdspider
-from func_spark import SparkApi
+from jd_func_spark import SparkApi
 from os import environ, system
 from utils import json_load
 
