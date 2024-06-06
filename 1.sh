@@ -1,0 +1,1 @@
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple  lxml jieba zhon requests  urllib3 websocket-client
