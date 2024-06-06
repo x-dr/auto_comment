@@ -37,6 +37,12 @@ websocket-client
 | SPARK_KEY | 705xxxxxeef1a | APIKey |
 | SPARK_SECRET | NDRkZTdxxxxxRkNmE0N2Fm | APISecret |
 
+```shell
+SPARK_CONFIG_ON="true"
+SPARK_APPID="fdxx9a"
+SPARK_KEY="705xxxxxeef1a"
+SPARK_SECRET="NDRkZTdxxxxxRkNmE0N2Fm"
+```
 
 
 + 运行
@@ -44,7 +50,7 @@ websocket-client
 ```shell
 pip install -r requirements.txt
 
-python main.py
+python jd_comment.py
 
 ```
 
